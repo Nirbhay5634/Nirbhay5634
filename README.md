@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Problem-Solving**
 
-- 👨‍💻 All of my projects are available at [https://chauhan5634.github.io/iamnirbhay/projects.html](https://chauhan5634.github.io/iamnirbhay/projects.html)
+- 👨‍💻 All of my projects are available at [https://Nirbhay5634.github.io/iamnirbhay/projects.html](https://Nirbhay5634.github.io/iamnirbhay/projects.html)
 
 - 💬 Ask me about **Android, Java**
 
