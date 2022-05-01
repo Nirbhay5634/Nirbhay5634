@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nirbhay5634&label=Profile%20views&color=0e75b6&style=flat" alt="Nirbhay5634" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nirbhay72000761" target="blank"><img src="https://img.shields.io/twitter/follow/nirbhay72000761?logo=twitter&style=for-the-badge" alt="nirbhay72000761" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Hey_Nirbhay" target="blank"><img src="https://img.shields.io/twitter/follow/nirbhay72000761?logo=twitter&style=for-the-badge" alt="nirbhay72000761" /></a> </p>
 
 - 🔭 I’m currently working on [Leeway Android App](https://play.google.com/store/apps/details?id=com.leeway.freecourses)
 
