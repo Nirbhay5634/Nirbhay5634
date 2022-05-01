@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nirbhay5634&label=Profile%20views&color=0e75b6&style=flat" alt="Nirbhay5634" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Hey_Nirbhay" target="blank"><img src="https://img.shields.io/twitter/follow/nirbhay72000761?logo=twitter&style=for-the-badge" alt="nirbhay72000761" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Hey_Nirbhay" target="blank"><img src="https://img.shields.io/twitter/follow/Hey_Nirbhay?logo=twitter&style=for-the-badge" alt="Hey_Nirbhay" /></a> </p>
 
 - 🔭 I’m currently working on [Leeway Android App](https://play.google.com/store/apps/details?id=com.leeway.freecourses)
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nirbhay72000761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirbhay72000761" height="30" width="40" /></a>
+<a href="https://twitter.com/Hey_Nirbhay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hey_Nirbhay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nirbhay-chauhan-530513198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirbhay-chauhan-530513198/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nirbhaychauhancs19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nirbhaychauhancs19" height="30" width="40" /></a>
 </p>
