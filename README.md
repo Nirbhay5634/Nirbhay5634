@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nirbhay Chauhan
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;Java+%7C+Node.js+%7C+Spring+Boot&center=true&size=28&theme=radical" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;+Java+%7C+Node.js+%7C+Spring+Boot&center=true&size=26&width=480&height=80&theme=radical" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Building scalable systems with backend & front-end integration</h3>
